@@ -1,10 +1,11 @@
 # Permalinks
-permalink:           pretty
+#permalink:           pretty
+permalink:           :title
 
 # Setup
-title:               jmeosbn
-tagline:             'notes from userspace'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:               notes from userspace
+tagline:             ''
+description:         ''
 url:                 https://jmeosbn.github.io/lanyon
 baseurl:             '/lanyon'
 paginate:            5
@@ -15,7 +16,6 @@ author:
   url:               https://twitter.com/jmeosbn
   email:             
 
-permalink: /:title/
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
