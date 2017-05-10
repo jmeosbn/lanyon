@@ -69,7 +69,7 @@ sudo dd if=/dev/sdc of=raspbian.img bs=1M
 ```
 
 For details on making an optimised `dd` image, see
-[Making a Pi disk image](./making-a-pi-disk-image/).
+[Making a Pi disk image](2014-06-30-making-a-pi-disk-image.md).
 
 
 ## First login tasks
