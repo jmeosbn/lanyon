@@ -15,7 +15,7 @@ url:  https://jmeosbn.github.io/lanyon
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/blogtest"
+baseurl: "/lanyon"
 
 paginate:            5
 
