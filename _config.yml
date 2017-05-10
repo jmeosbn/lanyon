@@ -6,7 +6,7 @@ title:               jmeosbn
 tagline:             'notes from userspace'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 https://jmeosbn.github.io/lanyon
-baseurl:             ''
+baseurl:             '/lanyon'
 paginate:            5
 
 # About/contact
@@ -14,6 +14,8 @@ author:
   name:              Jamie Osborne
   url:               https://twitter.com/jmeosbn
   email:             
+
+permalink: /:title/
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
