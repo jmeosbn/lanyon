@@ -1,5 +1,3 @@
-# Minimal Raspbian Pi
-
 A collection of notes for setting up a clean and minimal install of the official [Raspbian]
 image from [raspberrypi.org].
 
